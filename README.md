@@ -85,7 +85,7 @@ Example:
 
 ## 🚀 Live Preview
 
-*(Add your GitHub Pages link here once deployed)*
+* https://flowingcity777.github.io/acupuncture-clinic-case-study/*
 
 ---
 
