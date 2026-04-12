@@ -81,7 +81,7 @@ Designing a request-based booking flow that is easy for both patients and the cl
 
 ## 🚀 Live Preview
 
-* https://flowingcity777.github.io/acupuncture-clinic-case-study/*
+*https://flowingcity777.github.io/acupuncture-clinic-case-study/*
 
 ---
 
