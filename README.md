@@ -73,9 +73,9 @@ Designing a request-based booking flow that is easy for both patients and the cl
 
 ## 🖼️ Screenshots
 
-![Homepage](assets/homepage.png)
-![Services Section](assets/services section.png)
-![Appointment Section](assets/appointment section.png)
+![Homepage](assets/Homepage.png)
+![Services Section](assets/Services Section.png)
+![Appointment Section](assets/Appointment Section.png)
 
 ---
 
